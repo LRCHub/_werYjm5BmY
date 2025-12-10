@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Los! Los! Los!",
+  "base_artist": "ターニャ・デグレチャフ（CV：悠木碧）",
+  "createdAt": "2025-12-10T13:10:56.860796Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Los! Los! Los! (Saga of Tanya the Evil)",
+      "artist": "Selphius",
+      "has_synced": false,
+      "path": "select/01_Los!_Los!_Los!_(Saga_of_Tanya_the_Evil)_Selphius.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Los! Los! Los!",
+      "artist": "ターニャ・デグレチャフ(CV:悠木碧)",
+      "has_synced": false,
+      "path": "select/02_Los!_Los!_Los!_ターニャ・デグレチャフ(CV_悠木碧).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Los! Los! Los!",
+      "artist": "ターニャ・デグレチャフ; 悠木碧",
+      "has_synced": true,
+      "path": "select/03_Los!_Los!_Los!_ターニャ・デグレチャフ;_悠木碧.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Los! Los! Los! (From \"Saga of Tanya the Evil\")",
+      "artist": "FalKKonE feat. Rena",
+      "has_synced": true,
+      "path": "select/04_Los!_Los!_Los!_(From__Saga_of_Tanya_the_Evil_)_FalKKonE_feat._Rena.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Los! Los! Los! (from \"Saga of Tanya the Evil\")",
+      "artist": "FalKKonE",
+      "has_synced": true,
+      "path": "select/05_Los!_Los!_Los!_(from__Saga_of_Tanya_the_Evil_)_FalKKonE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Los Los Los (German -Selphius)",
+      "artist": "Selphius/Saga of Tanya the Evil",
+      "has_synced": true,
+      "path": "select/06_Los_Los_Los_(German_-Selphius)_Selphius_Saga_of_Tanya_the_Evil.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Los! Los! Los!",
+      "artist": "Selphius",
+      "has_synced": true,
+      "path": "select/07_Los!_Los!_Los!_Selphius.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Los! Los! Los!",
+      "artist": "ターニャ・デグレチャフ（CV：悠木碧）",
+      "has_synced": true,
+      "path": "select/08_Los!_Los!_Los!_ターニャ・デグレチャフ(CV_悠木碧).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Los! Los! Los!",
+      "artist": "ターニャ・デグレチャフ(CV:悠木碧)",
+      "has_synced": true,
+      "path": "select/09_Los!_Los!_Los!_ターニャ・デグレチャフ(CV_悠木碧).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Los！ Los！ Los！",
+      "artist": "ターニャ・デグレチャフ(CV：悠木碧)",
+      "has_synced": true,
+      "path": "select/10_Los!_Los!_Los!_ターニャ・デグレチャフ(CV_悠木碧).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Los! Los! Los!",
+      "artist": "Selphius",
+      "has_synced": true,
+      "path": "select/11_Los!_Los!_Los!_Selphius.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Los! Los! Los!",
+      "artist": "ターニャ・デグレチャフ",
+      "has_synced": true,
+      "path": "select/12_Los!_Los!_Los!_ターニャ・デグレチャフ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Los! Los! Los! (Youjo Senki)",
+      "artist": "Mizuho Yasuda",
+      "has_synced": true,
+      "path": "select/13_Los!_Los!_Los!_(Youjo_Senki)_Mizuho_Yasuda.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Los! Los! Los! (Saga of Tanya the Evil)",
+      "artist": "Selphius",
+      "has_synced": true,
+      "path": "select/14_Los!_Los!_Los!_(Saga_of_Tanya_the_Evil)_Selphius.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Los! Los! Los! (幼女戦記)",
+      "artist": "安田みずほ",
+      "has_synced": true,
+      "path": "select/15_Los!_Los!_Los!_(幼女戦記)_安田みずほ.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Los! Los! Los!",
+      "artist": "ターニャ・デグレチャフ(CV:悠木碧); ターニャ・デグレチャフ(CV:悠木碧); ターニャ・デグレチャフ(CV:悠木碧)",
+      "has_synced": true,
+      "path": "select/16_Los!_Los!_Los!_ターニャ・デグレチャフ(CV_悠木碧);_ターニャ・デグレチャフ(CV_悠木碧);_ターニャ・デグレチャフ(CV_悠木碧).lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Los! Los! Los!",
+      "artist": "FalKKonE",
+      "has_synced": true,
+      "path": "select/17_Los!_Los!_Los!_FalKKonE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Los! Los! Los!",
+      "artist": "ターニャ・デグレチャフ(CV:悠木碧)",
+      "has_synced": false,
+      "path": "select/pl_01_Los!_Los!_Los!_ターニャ・デグレチャフ(CV_悠木碧).txt"
+    }
+  ]
+}
